@@ -9,7 +9,7 @@ export const Hero_content = () => {
         
         <div className={style.btns_grps}>
             <button className={style.btn}>i need a website <MdArrowCircleRight/></button>
-            <button className={style.btn}>i'm looking to hire  <MdArrowCircleRight/></button>
+            <button className={style.btn}>im looking to hire  <MdArrowCircleRight/></button>
         </div>
     </div>
   )
